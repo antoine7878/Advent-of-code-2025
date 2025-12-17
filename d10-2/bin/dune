@@ -1,0 +1,4 @@
+(executable
+ (public_name d10-2)
+ (name main)
+ (libraries lp-highs))

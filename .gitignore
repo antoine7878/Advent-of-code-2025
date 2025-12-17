@@ -1,0 +1,8 @@
+._d/
+_build/
+
+*.cmi
+*.cmx
+*.o
+*.txt
+a.out
